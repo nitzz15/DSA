@@ -10,6 +10,7 @@ public class HashSetTest {
 		System.out.println("hello");
 		System.out.println("nitesh");
 		HashSet<Integer> set = new HashSet<>();
+		System.out.println("NIL NITIN NILESH");
 		
 		set.add(12);
 		set.add(54);
