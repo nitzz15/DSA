@@ -28,7 +28,7 @@ public class BinaryGap {
 			int diff = Binarylist.get(j+1)-Binarylist.get(j)-1;
 			longestGap = Math.max(longestGap, diff);
 		}
-		System.out.println("longest gap :"+longestGap);
+		System.out.println("Shortest gap :"+longestGap);
 		
 		
 
