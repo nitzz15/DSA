@@ -12,7 +12,7 @@ public class BinaryGap {
 	System.out.println(binary);	
 	
 	System.out.println("hello Nitesh KFC la party kdhi denar ahes");
-	System.out.println("HELLO NITZZZZZ");
+	System.out.println("HELLO Ash");
 	
 		ArrayList<Integer> Binarylist = new ArrayList<Integer>();
 		for(int i=0;i<binary.length();i++) {
