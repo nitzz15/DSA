@@ -4,7 +4,7 @@ public class LinearProbingHashTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("hello world");
 		Hash hs = new Hash(5);
 	}
 
