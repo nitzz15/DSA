@@ -9,6 +9,7 @@ public class HashSetTest {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 		System.out.println("nitesh");
+		System.out.println("sanket");
 		HashSet<Integer> set = new HashSet<>();
 		System.out.println("NIL NITIN NILESH");
 		
